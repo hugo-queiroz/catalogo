@@ -108,10 +108,10 @@ Utilizado para cancelar buscas/fetch quando filtros mudam rapidamente.
  ┃ ┗ 📄 products.json
  ┣ 📄 App.vue
  ┗ 📄 main.js
-
+```
 ---
 
-## 🖼 Prints do projeto
+## Prints do projeto
 
 ### Página inicial
 ![Home](./screenshots/home-desk.png)
