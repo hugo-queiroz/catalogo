@@ -4,7 +4,7 @@
     "name": "Apple iPhone 17 Pro Max",
     "category": "Eletrônicos",
     "price": 12499,
-    "description": "iPhone 17 Pro Max com chip A19 Pro, tela Super Retina XDR ProMotion de 6,9\" e sistema de câmeras Pro Fusion de alta precisão.",
+    "description": "Smartphone premium com desempenho excepcional, câmera de última geração e tela de altíssima definição. Ideal para quem busca potência e qualidade máxima.",
     "image": "https://i.pinimg.com/736x/9c/50/27/9c5027ad407a5dcb714a5cdf808d62d8.jpg",
     "images": [
       "https://cdn.arstechnica.net/wp-content/uploads/2025/10/IMG_3437.jpeg",
@@ -18,7 +18,7 @@
     "name": "Samsung Galaxy S25 Ultra",
     "category": "Eletrônicos",
     "price": 11499.0,
-    "description": "Galaxy S25 Ultra com processador avançado, Galaxy AI integrado e sistema de câmera de altíssima resolução.",
+    "description": "Aparelho avançado com câmera poderosa, bateria de longa duração e recursos inteligentes que elevam produtividade e experiência multimídia.",
     "image": "https://i.pinimg.com/736x/f9/04/70/f90470d45c23988b751c9a97fffc7c72.jpg",
     "images": [
       "https://i.pinimg.com/736x/f9/04/70/f90470d45c23988b751c9a97fffc7c72.jpg",
@@ -33,7 +33,7 @@
     "name": "Nike Air Zoom Elite Premium",
     "category": "Calçados",
     "price": 899.9,
-    "description": "Tênis premium Nike com amortecimento Zoom e cabedal respirável para alto desempenho e conforto diário.",
+    "description": "Tênis leve e extremamente responsivo, oferecendo excelente amortecimento para corridas e treinos intensos. Conforto e performance no mesmo modelo.",
     "image": "https://static.netshoes.com.br/produtos/chuteira-nike-air-zoom-mercurial-vapor-16-elite-campo/52/JD8-9973-152/JD8-9973-152_zoom3.jpg?ts=1756896581&ims=1088x",
     "images": [
       "https://static.netshoes.com.br/produtos/chuteira-nike-air-zoom-mercurial-vapor-16-elite-campo/52/JD8-9973-152/JD8-9973-152_zoom3.jpg?ts=1756896581&ims=1088x",
@@ -48,7 +48,7 @@
     "name": "Nike Air Max Excee",
     "category": "Calçados",
     "price": 749.9,
-    "description": "Edição premium do clássico Air Max, com sola visível e acabamento premium em materiais selecionados.",
+    "description": "Combina estilo clássico com o conforto do Air Max. Ideal para uso diário, oferecendo boa durabilidade e visual moderno.",
     "image": "https://static.netshoes.com.br/produtos/tenis-nike-air-max-excee-masculino/14/JD8-8955-114/JD8-8955-114_zoom1.jpg?ts=1764472722&ims=1088x",
     "images": [
       "https://static.netshoes.com.br/produtos/tenis-nike-air-max-excee-masculino/14/JD8-8955-114/JD8-8955-114_zoom1.jpg?ts=1764472722&ims=1088x",
@@ -62,7 +62,7 @@
     "name": "Adidas Ultraboost 5",
     "category": "Calçados",
     "price": 759.9,
-    "description": "Ultraboost Pro com tecnologia Boost refinada e entressola responsiva para corrida e uso urbano premium.",
+    "description": "Modelo de corrida com retorno de energia superior e cabedal confortável. Ótimo para treinos longos e caminhadas, garantindo estabilidade e maciez.",
     "image": "https://imgcentauro-a.akamaihd.net/800x800/990526H3A5.jpg",
     "images": [
       "https://imgcentauro-a.akamaihd.net/800x800/990526H3A2.jpg",
@@ -76,7 +76,7 @@
     "name": "Puma X-Ray 2 Square",
     "category": "Calçados",
     "price": 499.9,
-    "description": "Calçado urbano adidas com design contemporâneo, sola confortável e acabamento premium.",
+    "description": "Tênis com design robusto e moderno, amortecimento eficiente e muito conforto para o dia a dia. Ideal para quem busca estilo e praticidade.",
     "image": "https://static.zattini.com.br/produtos/tenis-puma-x-ray-2-square-bdp-masculino/44/2I3-3496-244/2I3-3496-244_zoom1.jpg?ts=1695130749&ims=1088x",
     "images": [
       "https://static.zattini.com.br/produtos/tenis-puma-x-ray-2-square-bdp-masculino/44/2I3-3496-244/2I3-3496-244_zoom1.jpg?ts=1695130749&ims=1088x",
@@ -91,7 +91,7 @@
     "name": "AirPods Pro (3ª geração)",
     "category": "Acessórios",
     "price": 1299.0,
-    "description": "Fones intra-auriculares com cancelamento ativo de ruído, áudio espacial e integração profunda com o ecossistema Apple.",
+    "description": "Fones com cancelamento ativo de ruído, áudio imersivo e encaixe confortável. Experiência premium para músicas, chamadas e uso diário.",
     "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-pro-3-hero-select-202509_FMT_WHH?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1758077264181",
     "images": [
       "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-pro-3-hero-select-202509_FMT_WHH?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1758077264181",
@@ -105,7 +105,7 @@
     "name": "Samsung Galaxy Buds3 Pro",
     "category": "Acessórios",
     "price": 999.0,
-    "description": "Earbuds premium Samsung com som balanceado, ANC avançado e ótima autonomia para uso diário.",
+    "description": "Fones com áudio refinado, cancelamento de ruído inteligente e ótima duração de bateria. Perfeitos para quem busca qualidade e mobilidade.",
     "image": "https://samsungbrshop.vtexassets.com/arquivos/ids/250683/1000x1000__0005_Cinza.jpg.jpg?v=638798185183370000",
     "images": [
       "https://samsungbrshop.vtexassets.com/arquivos/ids/250683/1000x1000__0005_Cinza.jpg.jpg?v=638798185183370000",
@@ -119,7 +119,7 @@
     "name": "Headset Gamer HyperX Cloud II",
     "category": "Acessórios",
     "price": 499.9,
-    "description": "Headset com som surround, microfone removível e construção confortável para longas sessões de jogo.",
+    "description": "Headset com som surround, microfone de alta qualidade e construção extremamente confortável. Ideal para jogos e longas sessões de uso.",
     "image": "https://images.kabum.com.br/produtos/fotos/143077/headset-sem-fio-gamer-hyperx-cloud-ii-7-1-drivers-53mm-preto-hhsc2x-ba-rd-g_1611584616_gg.jpg",
     "images": [
       "https://images.kabum.com.br/produtos/fotos/143077/headset-sem-fio-gamer-hyperx-cloud-ii-7-1-drivers-53mm-preto-hhsc2x-ba-rd-g_1611584616_gg.jpg",
@@ -133,7 +133,7 @@
     "name": "Apple Watch Series 11",
     "category": "Acessórios",
     "price": 3999.0,
-    "description": "Smartwatch Apple com monitoramento de saúde avançado, watchOS atualizado e integração total com iPhone.",
+    "description": "Relógio inteligente com sensores avançados, ótimo desempenho e recursos completos de saúde e atividade física.",
     "image": "https://www.apple.com/newsroom/images/2025/09/apple-debuts-apple-watch-series-11-featuring-groundbreaking-health-insights/article/Apple-Watch-Series-11-titanium-natural-250909_inline.jpg.large.jpg",
     "images": [
       "https://macmagazine.com.br/wp-content/uploads/2025/09/Apple-Watch-Series-11-display-250909.jpg",
@@ -147,7 +147,7 @@
     "name": "Samsung Galaxy Watch 7",
     "category": "Acessórios",
     "price": 2799.0,
-    "description": "Relógio inteligente Samsung com recursos de saúde, longa duração de bateria e integração com Galaxy AI.",
+    "description": "Smartwatch moderno com monitoramento preciso, boa autonomia e integração fluida com smartphones Android.",
     "image": "https://m.media-amazon.com/images/I/510jhO2qNCL.jpg",
     "images": [
       "https://m.media-amazon.com/images/I/510jhO2qNCL.jpg",
@@ -161,7 +161,7 @@
     "name": "Fone Intra-auricular com Fio",
     "category": "Acessórios",
     "price": 299.9,
-    "description": "Fone compacto com boa isolação sonora, autonomia estendida e controle por toque.",
+    "description": "Fones leves e práticos, com som claro e boa fixação. Excelente opção para uso diário e chamadas.",
     "image": "https://m.media-amazon.com/images/I/51EfYT6kuNL._AC_SL1000_.jpg",
     "images": [
       "https://m.media-amazon.com/images/I/51EfYT6kuNL._AC_SL1000_.jpg",
@@ -175,7 +175,7 @@
     "name": "Camiseta Básica Algodão",
     "category": "Roupas",
     "price": 49.9,
-    "description": "Camiseta básica em algodão penteado, toque suave e corte clássico — peça curinga para o dia a dia.",
+    "description": "Confortável e versátil, feita com algodão macio e ideal para o dia a dia. Combina com qualquer look.",
     "image": "https://http2.mlstatic.com/D_NQ_NP_2X_951727-MLB88466120628_072025-F-kit-3-oversized-masculina-stretwear-basica-lisa-premium.webp",
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_2X_951727-MLB88466120628_072025-F-kit-3-oversized-masculina-stretwear-basica-lisa-premium.webp"
@@ -188,7 +188,7 @@
     "name": "Camiseta Oversized Premium",
     "category": "Roupas",
     "price": 79.9,
-    "description": "Camiseta oversized com acabamento premium e corte moderno — ideal para looks casuais com estilo.",
+    "description": "Modelo amplo e estiloso, com tecido reforçado e toque suave. Ótimo para quem busca conforto e moda urbana.",
     "image": "https://img.ltwebstatic.com/images3_spmp/2024/10/03/d3/172796272382ad20b2d07e45db4d7e46cfd5fe1197.webp",
     "images": [
       "https://img.ltwebstatic.com/images3_spmp/2024/10/03/d3/172796272382ad20b2d07e45db4d7e46cfd5fe1197.webp",
@@ -202,7 +202,7 @@
     "name": "Jaqueta Corta-vento",
     "category": "Roupas",
     "price": 199.9,
-    "description": "Jaqueta corta-vento leve, com forro interno confortável e bolsos com zíper — perfeita para viagens e prática esportiva.",
+    "description": "Leve e resistente, protege contra vento e chuva leve. Perfeita para atividades ao ar livre e uso urbano.",
     "image": "https://static.netshoes.com.br/produtos/jaqueta-puffer-bobojaco-masculina-casaco-corta-vento-acolchoada-impermeavel-bolsos-capuz-removivel/06/CSE-0864-006/CSE-0864-006_zoom6.jpg?ts=1764797498&ims=1088x",
     "images": [
       "https://static.netshoes.com.br/produtos/jaqueta-puffer-bobojaco-masculina-casaco-corta-vento-acolchoada-impermeavel-bolsos-capuz-removivel/06/CSE-0864-006/CSE-0864-006_zoom1.jpg?ts=1764797498&ims=1088x",
