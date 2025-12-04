@@ -1,0 +1,36 @@
+:root {
+  --color-base: 248 249 250;
+  --color-text: 20 20 20;
+  --color-surface: 255 255 255;
+  --color-border: 225 228 233;
+  --color-primary: 45 92 92;
+}
+
+.dark {
+  --color-base: 18 18 18;
+  --color-text: 235 235 235;
+  --color-surface: 28 28 28;
+  --color-border: 60 60 60;
+  --color-primary: 45 92 92;
+}
+
+
+
+
+html, body {
+  height: 100%;
+}
+body {
+  background-color: rgb(var(--color-base));
+  color: rgb(var(--color-text));
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* desativa algumas transições forçadas */
+.disable-theme-transitions *,
+.disable-theme-transitions *::before,
+.disable-theme-transitions *::after {
+  transition: none !important;
+  animation: none !important;
+}
