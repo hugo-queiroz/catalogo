@@ -93,6 +93,7 @@ Utilizado para cancelar buscas/fetch quando filtros mudam rapidamente.
 ---
 
 ## 📁 Estrutura do projeto
+```
 📦 src
  ┣ 📂 assets
  ┣ 📂 components
