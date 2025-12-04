@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen bg-surface text-text transition-colors duration-150">
+  <div class="min-h-screen bg-surface text-text transition-colors duration-150 max-[650px]:px-5">
     <Header />
     <main class="container mx-auto py-6">
       <router-view />
