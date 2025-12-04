@@ -114,16 +114,16 @@ Utilizado para cancelar buscas/fetch quando filtros mudam rapidamente.
 ## Prints do projeto
 
 ### Página inicial
-![Home](./screenshots/home-desk.png)
+![Home](./src/screenshots/home-desk.png)
 
 ### Produto desktop
-![Produto](./screenshots/produto-desk.png)
+![Produto](./src/screenshots/produto-desk.png)
 
 ### Página inicial mobile com filtro ativo
-![Home](./screenshots/home-mobile-filtro.png)
+![Home](./src/screenshots/home-mobile-filtro.png)
 
 ### Produto mobile
-![Produto](./screenshots/produto-mobile.png)
+![Produto](./src/screenshots/produto-mobile.png)
 
 ---
 
