@@ -58,7 +58,7 @@ npm run test
 - **Componentização**: estrutura organizada com componentes reutilizáveis e fáceis de manter.
 - **Acessibilidade**: uso de elementos semânticos, botões com atributos ARIA, modal com foco gerenciado, fechar com ESC, navegação fluida no teclado.
 
-# Reatividade e Ciclo de Vida
+# ⚛️ Reatividade e Ciclo de Vida
 ### Debounce com cleanup  
 Ao desmontar o componente, o timeout do debounce é limpo para evitar warnings.
 ### Listener de resize com cleanup  
@@ -93,17 +93,20 @@ Utilizado para cancelar buscas/fetch quando filtros mudam rapidamente.
 ---
 
 ## 📁 Estrutura do projeto
-src/
-assets/
-components/
-pages/
-router/
-stores/ → Pinia (tema, carrinho, favoritos)
-utils/
-data/ → products.json / hook de dados
-App.vue
-main.js
-
+📦 src
+ ┣ 📂 assets
+ ┣ 📂 components
+ ┣ 📂 pages
+ ┣ 📂 router
+ ┣ 📂 stores
+ ┃ ┣ 📂 theme
+ ┃ ┣ 📂 cart
+ ┃ ┣ 📂 favorites
+ ┣ 📂 utils
+ ┣ 📂 data
+ ┃ ┗ 📄 products.json
+ ┣ 📄 App.vue
+ ┗ 📄 main.js
 
 ---
 
